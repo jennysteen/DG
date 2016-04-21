@@ -114,7 +114,8 @@ body {
 	margin: 0 0 20px
 }
 #body #featured img {
-	min-width: 960px;
+	min-width: 240px;
+	width: 100vw;
 }
 #body #featured div {
 	left: 0;
